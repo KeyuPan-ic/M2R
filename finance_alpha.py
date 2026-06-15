@@ -22,6 +22,17 @@ tickers = [
     "DE", "SYK", "LMT", "TJX", "VRTX", "ADP", "MMC", "CI", "CB", "ADI",
     "REGN", "BSX", "PANW", "ETN", "MU", "GILD", "C", "LRCX", "KLAC", "ZTS",
     "FI", "SO", "MO", "EQIX", "DUK", "SHW", "ICE", "CL", "AMT", "WM",
+
+    "MCO", "CME", "GD", "SNPS", "CDNS", "PH", "APH", "HCA", "ITW", "NOC",
+    "USB", "TDG", "MMM", "PNC", "EOG", "MAR", "CTAS", "ORLY", "FCX", "APD",
+    "AON", "MSI", "EMR", "ROP", "BDX", "AJG", "COF", "NSC", "PSX", "TGT",
+    "FDX", "ECL", "NXPI", "HLT", "PCAR", "WELL", "GM", "AZO", "DXCM", "TRV",
+    "AFL", "O", "ROST", "SPG", "MNST", "KMB", "D", "MPC", "SRE", "ALL",
+    "MET", "OKE", "CCI", "AEP", "OXY", "MSCI", "PAYX", "DHI", "KMI", "TEL",
+    "PSA", "F", "BK", "LULU", "JCI", "CPRT", "KDP", "NEM", "AMP", "GWW",
+    "HUM", "AIG", "PRU", "STZ", "COR", "LEN", "IDXX", "FAST", "EXC", "YUM",
+    "VLO", "KR", "CHTR", "GIS", "CTVA", "RSG", "KVUE", "FIS", "IQV", "HES",
+    "CMG", "ODFL", "PEG", "EW", "IR", "PCG", "VRSK", "EA", "ACGL", "MLM"
 ]
 
 benchmark = "SPY"
